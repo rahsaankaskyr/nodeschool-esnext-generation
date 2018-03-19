@@ -1,0 +1,12 @@
+
+
+git remote add origin https://github.com/takonyc/nodeschool-esnext-generation.git
+
+
+
+esnext-generation
+
+
+
+$ npm install -g esnext-generation
+$ esnext-generation # or, shorter: esng
